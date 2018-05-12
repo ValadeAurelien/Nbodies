@@ -1,0 +1,15 @@
+N 1024 nb_of_stars
+nb_pts_X 1000 nb_of_pixels_SDL_X
+nb_pts_Y 1000 nb_of_pixels_SDL_Y
+max_X 1000 X_space_dimension
+max_Y 1000 Y_space_dimension
+max_Z 1000 Z_space_dimension
+ray_X 10 X_initial_rayon
+ray_Y 10 Y_initial_rayon
+ray_Z 10 Z_initial_rayon
+profile_type 0 NORMAL_0_UNIFORM_1_EXPONANTIAL_2
+speed_norm 1 norm_of_initial_speed
+speed_type 0 RADIALRANDOM_0_WRAPX_1_WRAPY_2
+min_m 1 minimal_mass
+max_m 10 maximal_mass
+
